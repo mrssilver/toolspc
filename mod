@@ -1,7 +1,4 @@
 
-
-go.mod
-
 module github.com/mrssilver/rss
 
 go 1.21
