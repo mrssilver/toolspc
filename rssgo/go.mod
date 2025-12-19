@@ -1,4 +1,4 @@
-module github.com/mrssilver/rss
+module github.com/mrssilver/toolsoc/rssgo
 
 go 1.21
 
